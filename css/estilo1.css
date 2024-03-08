@@ -1,0 +1,38 @@
+body
+{
+    background-color: rgb(4, 67, 15);
+    margin: 5px;
+    padding: 0px;
+}
+.contenedorCajaGrande
+{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.cajaGrande
+{
+    background-color: rgb(96, 255, 149);
+    width: 520px;
+    height: 800px;
+    margin: 10px;
+}
+.contenedorCajaPeque
+{
+    display: flex;
+}
+.cajaPeque
+{
+    background-color: rgb(22, 148, 18);
+    width: 150px;
+    height: 130px;
+    margin: 10px;
+}
+.cajaAdicional
+{
+    background-color: rgb(10, 78, 18);
+    width: 490px;
+    height: 130px;
+    margin: 10px;
+}
+
